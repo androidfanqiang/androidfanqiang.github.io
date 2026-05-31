@@ -1,4 +1,4 @@
-# 安卓翻墙 - 5月24日22.3M/S|免费SSR节点/Shadowrocket节点/V2ray节点/Singbox节点/Clash节点节点推荐，VPN节点购买推荐  更新时间 2026-05-24 10:25:52
+# 安卓翻墙 - 5月31日19.9M/S|免费SSR节点/Shadowrocket节点/Singbox节点/Clash节点/V2ray节点节点推荐，VPN节点购买推荐  更新时间 2026-05-31 08:32:02
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://androidfanqiang.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://androidfanqiang.github.io/uploads/2026/05/0-20260524.yaml
-- https://androidfanqiang.github.io/uploads/2026/05/1-20260524.yaml
-- https://androidfanqiang.github.io/uploads/2026/05/2-20260524.yaml
-- https://androidfanqiang.github.io/uploads/2026/05/3-20260524.yaml
-- https://androidfanqiang.github.io/uploads/2026/05/4-20260524.yaml
+- https://androidfanqiang.github.io/uploads/2026/05/0-20260531.yaml
+- https://androidfanqiang.github.io/uploads/2026/05/1-20260531.yaml
+- https://androidfanqiang.github.io/uploads/2026/05/2-20260531.yaml
+- https://androidfanqiang.github.io/uploads/2026/05/3-20260531.yaml
+- https://androidfanqiang.github.io/uploads/2026/05/4-20260531.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://androidfanqiang.github.io/uploads/2026/05/0-20260524.txt
-- https://androidfanqiang.github.io/uploads/2026/05/1-20260524.txt
-- https://androidfanqiang.github.io/uploads/2026/05/2-20260524.txt
-- https://androidfanqiang.github.io/uploads/2026/05/3-20260524.txt
-- https://androidfanqiang.github.io/uploads/2026/05/4-20260524.txt
+- https://androidfanqiang.github.io/uploads/2026/05/0-20260531.txt
+- https://androidfanqiang.github.io/uploads/2026/05/1-20260531.txt
+- https://androidfanqiang.github.io/uploads/2026/05/2-20260531.txt
+- https://androidfanqiang.github.io/uploads/2026/05/3-20260531.txt
+- https://androidfanqiang.github.io/uploads/2026/05/4-20260531.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://androidfanqiang.github.io/uploads/2026/05/20260524.json
+- https://androidfanqiang.github.io/uploads/2026/05/20260531.json
 
 ## 更多Clash节点订阅 ：
 
